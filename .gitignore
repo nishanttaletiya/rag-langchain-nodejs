@@ -1,0 +1,7 @@
+# .gitignore
+node_modules/
+.env
+workingfine.txt
+package-lock.json
+package.json
+yarn.lock
